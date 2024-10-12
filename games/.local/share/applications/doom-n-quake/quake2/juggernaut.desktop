@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=yamagi-quake2 +set game juggernaut
+Icon[$e]=$HOME/.yq2/juggernaut/jug.ico
+Name=Juggernaut: The New Story for Quake II
+Type=Application

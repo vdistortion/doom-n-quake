@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=eduke32 -addon 3 -nosetup -mx vacation.con
+Icon=eduke32
+Name=Duke Caribbean: Life’s A Beach
+Type=Application

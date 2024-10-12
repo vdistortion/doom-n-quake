@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=eduke32 -addon 1 -nosetup -mx dukedc.con
+Icon=eduke32
+Name=Duke it out in D.C.
+Type=Application

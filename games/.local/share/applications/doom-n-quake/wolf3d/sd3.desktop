@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec[$e]=cd $HOME/.config/ecwolf && ecwolf --fullscreen --data SD3
+Icon[$e]=$HOME/.config/ecwolf/SOD.ICO
+Name=Spear of Destiny: Ultimate Challenge
+Type=Application

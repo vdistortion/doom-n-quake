@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gzdoom -iwad HERETIC.WAD
+Icon[$e]=$HOME/.config/gzdoom/icons/heretic.jpg
+Name=Heretic: Shadow of the Serpent Riders
+Type=Application

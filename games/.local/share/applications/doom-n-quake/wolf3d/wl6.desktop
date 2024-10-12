@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec[$e]=cd $HOME/.config/ecwolf && ecwolf --fullscreen --data WL6
+Icon[$e]=$HOME/.config/ecwolf/WOLF.ICO
+Name=Wolfenstein 3D
+Type=Application

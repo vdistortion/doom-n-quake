@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gzdoom -iwad PLUTONIA.WAD -file files/doom-n-quake.pk3
+Icon[$e]=$HOME/.config/gzdoom/icons/Fd.ico
+Name=Final Doom: The Plutonia Experiment
+Type=Application

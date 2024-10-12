@@ -1,0 +1,1 @@
+cd nblood && nblood.exe

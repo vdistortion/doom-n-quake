@@ -1,0 +1,1 @@
+cd quakespasm && quakespasm.exe

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gzdoom -iwad DOOM.WAD -file files/doom-n-quake.pk3 SIGIL_v1_21.wad SIGIL_SHREDS.wad SIGIL_II_V1_0.WAD SIGIL_II_MP3_V1_0.WAD
+Icon[$e]=$HOME/.config/gzdoom/icons/Ud.ico
+Name=The Ultimate Doom
+Type=Application

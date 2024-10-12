@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec[$e]=$HOME/.realrtcw/RealRTCW.x86_64
+Icon[$e]=$HOME/.realrtcw/rtcw.ico
+Name=Return to Castle Wolfenstein
+Type=Application

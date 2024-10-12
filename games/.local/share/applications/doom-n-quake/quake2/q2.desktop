@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=yamagi-quake2
+Icon[$e]=$HOME/.yq2/baseq2/q2.ico
+Name=Quake II
+Type=Application

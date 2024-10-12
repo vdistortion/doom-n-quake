@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=eduke32 -addon 0 -nosetup
+Icon=eduke32
+Name=Duke Nukem 3D: Atomic Edition
+Type=Application

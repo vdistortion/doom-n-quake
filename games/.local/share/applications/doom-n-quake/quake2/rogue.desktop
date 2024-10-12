@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=yamagi-quake2-rogue
+Icon[$e]=$HOME/.yq2/rogue/rogue.ico
+Name=Quake II: Ground Zero
+Type=Application

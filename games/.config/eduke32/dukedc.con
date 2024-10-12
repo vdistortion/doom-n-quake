@@ -1,0 +1,15 @@
+definevolumename 0 DUKE IT OUT IN D.C.
+
+definelevelname 0 0 DUKEDC1.map 02:54 01:02 HELL TO THE CHIEF
+definelevelname 0 1 DUKEDC2.map 03:55 00:59 MEMORIAL SERVICE
+definelevelname 0 2 DUKEDC3.map 03:32 01:49 NUKED FILES
+definelevelname 0 3 DUKEDC4.map 23:15 06:46 SMITHSONIAN TERROR
+definelevelname 0 4 DUKEDC5.map 03:26 00:44 CAPITOL PUNISHMENT
+definelevelname 0 5 DUKEDC6.map 03:51 01:47 METRO MAYHEM
+definelevelname 0 6 DUKEDC7.map 03:00 01:21 BROWN WATER
+definelevelname 0 7 DUKEDC8.map 06:15 03:09 DREAD OCTOBER
+definelevelname 0 8 DUKEDC9.map 02:38 01:17 NUKE PROOF
+definelevelname 0 9 DUKEDCSL.map 16:45 05:10 TOP SECRET
+
+music 1 inhiding.mid FATCMDR.mid NAMES.MID subway.mid invader.mid gotham.mid
+        233c.mid lordofla.mid urban.mid spook.mid

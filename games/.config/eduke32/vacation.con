@@ -1,0 +1,13 @@
+definevolumename 0 LIFE'S A BEACH
+
+definelevelname 0 0 VACA1.map 03:47 01:31 CARIBBEAN CATASTROPHE
+definelevelname 0 1 VACA2.map 05:35 02:27 MARKET MELEE
+definelevelname 0 2 VACA3.map 07:40 03:21 MR. SPLASHY'S
+definelevelname 0 3 VACA4.map 06:17 02:34 THE WAVEMISTRESS
+definelevelname 0 4 VACA5.map 05:14 01:24 LOST LAGOON
+definelevelname 0 5 VACA6.map 06:39 02:57 VOODOO CAVES
+definelevelname 0 6 VACA7.map 07:21 03:28 THE ALIEN REMAINS
+definelevelname 0 7 VACASL.map 04:17 01:79 A FULL HOUSE
+
+music 1 IRIEPRTY.mid DUKE-O.mid IRIEPRTY.MID PRTYCRUZ.mid JUNGVEIN.mid SOL-MAN1.mid
+        DOOMSDAY.mid SOL-MAN1.mid

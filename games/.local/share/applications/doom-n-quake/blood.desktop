@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=nblood
+Icon[$e]=$HOME/.config/nblood/BLOOD.ICO
+Name=Blood: One Unit Whole Blood
+Type=Application

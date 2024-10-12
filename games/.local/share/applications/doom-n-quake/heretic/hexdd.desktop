@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gzdoom -iwad HEXEN.WAD -file HEXDD.WAD +sv_nojump 0
+Icon[$e]=$HOME/.config/gzdoom/icons/hexen.jpg
+Name=Hexen: Deathkings of the Dark Citadel
+Type=Application

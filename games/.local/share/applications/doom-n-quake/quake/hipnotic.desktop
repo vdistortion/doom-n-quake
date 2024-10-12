@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=quakespasm -game hipnotic
+Icon[$e]=$HOME/.quakespasm/id1.jpg
+Name=Quake: Scourge of Armagon
+Type=Application

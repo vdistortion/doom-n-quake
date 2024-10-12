@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gzdoom -iwad DOOM2.WAD -file MASTERLEVELS.WAD files/doom-n-quake.pk3 files/master.ipk3
+Icon[$e]=$HOME/.config/gzdoom/icons/id.ico
+Name=Master Levels for Doom II
+Type=Application

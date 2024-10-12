@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=yamagi-quake2-zaero
+Icon[$e]=$HOME/.yq2/zaero/zaero.ico
+Name=Zaero for Quake II
+Type=Application

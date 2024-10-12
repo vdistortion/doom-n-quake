@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=quakespasm -game dopa
+Icon[$e]=$HOME/.quakespasm/quake.jpg
+Name=Quake: Dimension of the Past
+Type=Application

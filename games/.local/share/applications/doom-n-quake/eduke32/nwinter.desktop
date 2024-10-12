@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=eduke32 -addon 2 -nosetup -mx nwinter.conf
+Icon=eduke32
+Name=Duke: Nuclear Winter
+Type=Application

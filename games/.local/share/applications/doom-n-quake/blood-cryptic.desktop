@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=nblood -ini CRYPTIC.INI
+Icon[$e]=$HOME/.config/nblood/BLOOD.ICO
+Name=Blood: Cryptic Passage
+Type=Application
